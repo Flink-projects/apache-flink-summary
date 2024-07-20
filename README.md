@@ -74,19 +74,19 @@ With Flink we can process data both in batch and stream, although it is more use
 
 
 Use cases of Flink can be:
-    - `Fraud detection`
-    - `Video game analysis`
-    - C`ontent recommendation`
-    - `Telecommunications network monitoring`
-    - `Search optimization`
-    - `Industrial IoT`
-    - `Application monitoring`
+  - `Fraud detection`
+  - `Video game analysis`
+  - `Content recommendation`
+  - `Telecommunications network monitoring`
+  - `Search optimization`
+  - `Industrial IoT`
+  - `Application monitoring`
 
 Strengths of flink:
-    - `Can process unordered and delayed data`
-    - `Can maintain data status`
-    - `Delivery guarantee`
-    - `Scalable (auto-scaling)`
+  - `Can process unordered and delayed data`
+  - `Can maintain data status`
+  - `Delivery guarantee`
+  - `Scalable (auto-scaling)`
 
 ###  Installation and Configuration 
 
